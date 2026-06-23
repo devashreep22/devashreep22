@@ -16,7 +16,7 @@ Computer Engineering Student | Java Developer | DSA Enthusiast | Backend & AI Le
 
 ## 👩‍💻 About Me
 
-🎓 Second-year B.Tech CSE student
+🎓 Third-year B.Tech CSE student
 
 💻 Interested in Full Stack Development, Backend Engineering and AI-powered applications
 
