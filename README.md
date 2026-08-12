@@ -16,7 +16,7 @@ Computer Engineering Student | Java Developer | DSA Enthusiast | Backend & AI Le
 
 ## 👩‍💻 About Me
 
-🎓 Third-year B.Tech CSE student
+🎓 Third-year B.Tech AIDS student
 
 💻 Interested in Full Stack Development, Backend Engineering and AI-powered applications
 
@@ -54,7 +54,7 @@ Computer Engineering Student | Java Developer | DSA Enthusiast | Backend & AI Le
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go"/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,express,html,css"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 
@@ -105,9 +105,7 @@ Backend URL shortening service handling redirects with optimized performance.
 
 🏅 Android Developer Virtual Internship — AICTE & Google Developers
 
-🏅 Top 12 in college-level hackathon
-
-🏅 Selected member of Software Development Club (DKTE)
+🏅 Top 12 in national-level hackathon
 
 🏅 Solved 100+ DSA problems on LeetCode
 
