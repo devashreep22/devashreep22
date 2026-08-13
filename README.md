@@ -154,17 +154,17 @@ A backend-focused URL shortening service designed around **RESTful API principle
 **Tech Stack:** Go (Golang), REST APIs
 
 ---
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devashreep22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=devashreep22&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashreep22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=devashreep22&show_icons=true&theme=tokyonight"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devashreep22&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashreep22&layout=compact&theme=tokyonight"/>
+
+</p>
 ---
 
 ## 🧠 Engineering Interests
